@@ -13,10 +13,6 @@ public class main {
 		int[] temp = arr.clone(); 
 		//create a clone array the use sort to put it into ascending  order.
 		Arrays.sort(temp); 
-		if(Arrays.equals(temp, arr)) {
-			return true;
-		}else {
-			return false;
-		}
+		return Arrays.equals(temp, arr)
 	  }
 }

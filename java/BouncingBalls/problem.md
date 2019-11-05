@@ -15,3 +15,6 @@ If all three conditions above are fulfilled, return a positive integer, otherwis
 
 Note:
 The ball can only be seen if the height of the rebounding ball is strictly greater than the window parameter.
+
+Kata author: https://www.codewars.com/users/g964
+Kata: https://www.codewars.com/kata/5544c7a5cb454edb3c000047
